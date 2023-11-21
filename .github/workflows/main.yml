@@ -70,4 +70,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: 8Yanrin/devsecopsdiy:1.0 
+          tags: 8yanrin/devsecopsdiy:1.0 
